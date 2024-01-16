@@ -5,6 +5,9 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"engines": {
+		"node": "18.x"
+	},
 	"scripts": {
 		"start": "node server.js"
 	},
